@@ -14,6 +14,7 @@ ul {
   position: fixed;
   top: 0.7em;
   list-style-type: none;
+  left: 11em;
   margin: 0;
   padding: 0;
   overflow: hidden;
